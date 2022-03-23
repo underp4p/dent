@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+background-color: #f1f1f1;
+color: #0f141e;
+
+font-size: 16px;
+font-weight: normal;
+font-family: 'Roboto', sans-serif;
+
+
+/*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+
+}
+.milafoto{
+width: 165px;
+border-radius: 50px;
+box-shadow: 4px 4px 20px rgb(208 31 236 / 25%)
+}
+
+.info p {
+color: #868686;
+margin: 0;
+font-style: italic;
+font-weight: bold;
+
+text-decoration: none;
+/*text-transform: uppercase; */
+/*letter-spacing: 5px;*/
+word-spacing: 5px;
+}
+
+.social {
+font-family: 'Roboto', sans-serif;
+color: #0f141e;
+font-style: italic;
+
+
+}
